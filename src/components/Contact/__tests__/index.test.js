@@ -5,7 +5,7 @@ import Contact from '..';
 
 afterEach(cleanup);
 
-describe('Nav component', () => {
+describe('Contact component', () => {
     // baseline test
     it('renders', () => {
         render(<Contact/>);
